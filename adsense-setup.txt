@@ -1,0 +1,7 @@
+GOOGLE ADSENSE SETUP
+1. Apply for Google AdSense using your own Google account and website.
+2. After approval, replace ca-pub-XXXXXXXXXXXXXXXX in index.html with your real publisher ID.
+3. Add the AdSense script supplied by Google in the <head> of every page (or use your preferred site-wide integration).
+4. Replace the visible Advertisement boxes with the exact ad-unit code generated in AdSense if you use manual ad units.
+5. Keep Privacy, Contact and About pages accurate. Follow Google's current publisher policies and consent requirements applicable to your visitors.
+NOTE: Google Ads is for buying advertising. Google AdSense is the product normally used to monetize a website by displaying ads.
